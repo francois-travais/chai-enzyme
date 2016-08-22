@@ -1,8 +1,8 @@
 {
-  "name": "chai-enzyme",
+  "name": "trafra-chai-enzyme",
   "version": "0.5.0",
   "description": "Chai.js assertions for enzyme",
-  "homepage": "https://github.com/producthunt/chai-enzyme",
+  "homepage": "https://github.com/francois-travais/chai-enzyme",
   "author": {
     "name": "Veselin Todorov",
     "email": "hi@vesln.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/producthunt/chai-enzyme.git"
+    "url": "git://github.com/francois-travais/chai-enzyme.git"
   },
   "bugs": {
-    "url": "https://github.com/producthunt/chai-enzyme/issues"
+    "url": "https://github.com/francois-travais/chai-enzyme/issues"
   },
   "main": "build/index.js",
   "scripts": {
